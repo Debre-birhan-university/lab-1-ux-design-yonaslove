@@ -33,8 +33,8 @@ Upload the following files directly to your repository via the browser:
 ---
 
 ## 📝 Project Details
-**Selected Ethiopian App:** > [Name of App Here]
+**Selected Ethiopian App:** > [fyn ግዕዝ 2]
 
 
 **Which media did you use for design? (draw.io, Figma, Paper, etc.)**
-> [Your Answer Here]
+> [draw.io]
